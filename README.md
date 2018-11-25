@@ -1,5 +1,5 @@
 # AT.Common
-In the programming world the developers must have to note some common function/methods into somewhere in mind or maintain notebook. 
+In the programming world the developers must have to note some common functions/methods into somewhere in mind or maintain notebook. 
 This AT.Common library provides those kind of common functions/methods and it reduces 30% developers coding time. I am not saying that AT.Common libary has provided very extensive methods. In fact, the small methods that are regularly useful in our day-to-day coding.
 
 ###### AT.Common has following namespaces underwhich static classes are defined.
