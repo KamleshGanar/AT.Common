@@ -285,4 +285,4 @@ This class provide the JSON serialization and deserialization functionality.
   public static T DeSerialize<T>(string data)
 ```
 
-**NOTE :** This library fetch user's public IP for statistics and anyalysis purpose.
+**NOTE :** This library fetch user's public IP for statistics and analysis purpose.
